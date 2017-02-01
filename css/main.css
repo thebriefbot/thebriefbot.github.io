@@ -264,6 +264,13 @@ p.paragraph {
   text-decoration: none;
 }
 
+.ctas-button:hover {
+  background: #1a0047;
+  border: 1px solid #1a0047;
+  color: white;
+  transition: all 0.3s ease;
+}
+
 @media (max-width: 440px) {
   .ctas-input {
     display: block;
